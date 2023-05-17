@@ -1,5 +1,6 @@
 ## Web Scraping and Temperature Data Visualization
 This project is designed to scrape temperature data from multiple websites and visualize the temperature trends over time. It utilizes web scraping techniques to extract temperature information from different sources and then presents the data using interactive visualizations.
+![webscrapign](https://github.com/1010sb/webScraping_Weather/assets/96765388/53d2388a-b32b-4747-8564-23fc69451c75)
 
 ## Project Overview
 The main components of this project are as follows:
