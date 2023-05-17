@@ -23,7 +23,7 @@ To get started with this project, follow the steps below:
 
 2. Set up the URLs: Create a CSV file named urls.csv and populate it with the URLs of the websites from which you want to scrape temperature data.
 
-3. Run the web scraping script: Execute the scrap.py script to initiate the web scraping process. This script will send requests to the specified URLs, extract temperature data, and store it in the temp_data.h5 HDF5 file.
+3. Run the web scraping script: Execute the scrape.py script to initiate the web scraping process. This script will send requests to the specified URLs, extract temperature data, and store it in the temp_data.h5 HDF5 file.
 
 4. Visualize the temperature data: Run the visualize.py script to generate interactive line charts using the stored temperature data. The charts will be displayed in your default web browser, allowing you to explore temperature trends over time.
 
