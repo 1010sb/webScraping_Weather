@@ -13,6 +13,7 @@ The scraped temperature data is stored in an HDF5 file format. The script create
 
 ### Data Visualization: 
 The project utilizes the Plotly library to create interactive line charts for visualizing the temperature trends. The temperature data from different sources is combined into a single dataframe, and Plotly Express is used to generate line charts with timestamps on the x-axis and temperature values on the y-axis. The charts are customizable, allowing users to explore the temperature development over time.
+![temp_graph](https://github.com/1010sb/webScraping_Weather/assets/96765388/b609a901-f8de-4bcc-aba6-623764b9b5ef)
 
 ### Automation: 
 The project includes instructions for setting up a cron job on a Windows machine to run the web scraping script periodically. The cron job is scheduled to execute once every hour, collecting temperature data for the next two days. This ensures that the temperature data remains up to date and provides a continuous monitoring of temperature trends.
