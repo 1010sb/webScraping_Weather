@@ -369,3 +369,15 @@
 2023-05-21 10:30:02,846 INFO 2023-05-21 10:30:02 - https://www.topweather.net/en/weather-anderten-niedersachsen-de391710/ - Temperature: 14.9
 2023-05-21 10:30:03,826 INFO 2023-05-21 10:30:03 - https://de.euronews.com/wetter/europa/deutschland/langenhagen - Temperature: 18.0
 2023-05-21 10:30:03,826 INFO Temperature data saved to HDF5 file.
+2023-05-21 11:30:04,670 INFO 2023-05-21 11:30:04 - https://www.wetterdienst.de/Deutschlandwetter/Garbsen/Aktuell/ - Temperature: 17.4
+2023-05-21 11:30:05,040 INFO 2023-05-21 11:30:05 - https://www.topweather.net/en/weather-anderten-niedersachsen-de391710/ - Temperature: 16.5
+2023-05-21 11:30:06,756 INFO 2023-05-21 11:30:06 - https://de.euronews.com/wetter/europa/deutschland/langenhagen - Temperature: 20.0
+2023-05-21 11:30:06,757 INFO Temperature data saved to HDF5 file.
+2023-05-21 12:30:02,186 INFO 2023-05-21 12:30:02 - https://www.wetterdienst.de/Deutschlandwetter/Garbsen/Aktuell/ - Temperature: 19.5
+2023-05-21 12:30:02,497 INFO 2023-05-21 12:30:02 - https://www.topweather.net/en/weather-anderten-niedersachsen-de391710/ - Temperature: 17.9
+2023-05-21 12:30:02,820 INFO 2023-05-21 12:30:02 - https://de.euronews.com/wetter/europa/deutschland/langenhagen - Temperature: 20.0
+2023-05-21 12:30:02,820 INFO Temperature data saved to HDF5 file.
+2023-05-21 13:30:02,411 INFO 2023-05-21 13:30:02 - https://www.wetterdienst.de/Deutschlandwetter/Garbsen/Aktuell/ - Temperature: 21.3
+2023-05-21 13:30:02,735 INFO 2023-05-21 13:30:02 - https://www.topweather.net/en/weather-anderten-niedersachsen-de391710/ - Temperature: 19.8
+2023-05-21 13:30:03,790 INFO 2023-05-21 13:30:03 - https://de.euronews.com/wetter/europa/deutschland/langenhagen - Temperature: 24.0
+2023-05-21 13:30:03,790 INFO Temperature data saved to HDF5 file.
